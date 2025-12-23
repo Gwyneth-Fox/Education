@@ -1,2 +1,0 @@
-# Education
-iDSC education files
